@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-size: 145px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  color: antiquewhite;
+  text-shadow: 0 0 150px rgb(240, 240, 244);
+  background-color: rgb(157, 108, 203);
+}
